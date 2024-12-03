@@ -10,6 +10,8 @@
         ├── Database.cpp
         ├── Table.cpp
         └── Utility.cpp
+
+
 Simple In-Memory Database System
 
 This project implements a simple in-memory database system using C++. It provides basic functionality to manage tables, insert, update, delete records, and save/load data to/from a file. This lightweight project demonstrates core database operations and is an excellent learning tool for beginners in software development.
