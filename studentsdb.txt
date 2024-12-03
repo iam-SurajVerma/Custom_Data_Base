@@ -1,0 +1,26 @@
+Table: students
+	id (int)
+	name (string)
+	age (int)
+2	Bob	22	
+3	Charles	19	
+4	Diana	24	
+
+Table: courses
+	course_id (int)
+	course_name (string)
+	credits (int)
+101		Mathematics	4	
+102		Physics		3	
+103		Chemistry	4	
+104		Biology		3	
+
+Table: enrollment
+	student_id (int)
+	course_id (int)
+	semester (string)
+1	101	Fall		2024	
+2	102	Spring		2024	
+3	103	Fall		2024	
+4	104	Spring		2024	
+
